@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## iag-sc31.github.io
 
 You can use the [editor on GitHub](https://github.com/SevRosat/iag-sc31.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
